@@ -10,6 +10,14 @@ body {
   line-height: 1.64;
 }
 
+/* .selection-boxxx {
+  background-color: #a5a7aa;
+   padding: 5px;
+  display: inline-block;
+  border-radius: 6px; 
+  width: 900px; 
+} */
+
 h1,
 h2,
 h3,
@@ -123,15 +131,7 @@ hr {
   margin-bottom: 0px;
   padding: 0px;
 }
-/*.jumbotron:before { 
-	border: 1px solid #FFFFFF;
-	bottom: 30px;
-	content: "";
-	left: 30px;
-	position: absolute;
-	right: 30px;
-	top: 30px;
-}*/
+
 .jumbotron .overlay {
   background-color: #000000;
   position: absolute;
