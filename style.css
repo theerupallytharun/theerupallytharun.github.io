@@ -113,7 +113,7 @@ hr {
 }
 
 .jumbotron {
-  background: no-repeat center right fixed url(mn1.jpg);
+  background: no-repeat center right fixed url(mn22.jpg);
 
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -125,7 +125,7 @@ hr {
   -o-background-size: cover;
   background-size: cover;
 
-  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='mn1.jpg', sizingMethod='scale')";
+  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='mn22.jpg', sizingMethod='scale')";
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background.jpg', sizingMethod='scale');
 
   margin-bottom: 0px;
@@ -137,7 +137,7 @@ hr {
   position: absolute;
   top: 0px;
   bottom: 0px;
-  left: 0px;s
+  left: 0px;
   right: 0px;
   opacity: 0.75;
   filter: alpha;
