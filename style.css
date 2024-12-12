@@ -113,7 +113,7 @@ hr {
 }
 
 .jumbotron {
-  background: no-repeat center right fixed url(mn22.jpg);
+  background: no-repeat center right fixed url('Untitled1main.png');
 
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -125,7 +125,7 @@ hr {
   -o-background-size: cover;
   background-size: cover;
 
-  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='mn22.jpg', sizingMethod='scale')";
+  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Untitled1main.png', sizingMethod='scale')";
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background.jpg', sizingMethod='scale');
 
   margin-bottom: 0px;
@@ -134,7 +134,7 @@ hr {
 
 .jumbotron .overlay {
   background-color: #000000;
-  position: absolute;
+  /* position: ; */
   top: 0px;
   bottom: 0px;
   left: 0px;
